@@ -1,17 +1,14 @@
+# overview
+Project based on [thinkster.io tutorial](https://thinkster.io/angularfire-slack-tutorial). Essentially a simplified [slack](https://slack.com/)-clone.
+
+Major techonologies used:<br>
+[Firebase](https://www.firebase.com/) backend<br>
+[AngularJS](https://angularjs.org/) frontend<br>
+
+Deployed here: [@Firebase](https://thinksterfirebasetut.firebaseapp.com) <br>
+Github project here: [Github - fireslack-seed]()
+
 # notes
 
-nået til "Storing User Profiles in Firebase"
+online/offline status icon not working... yet.
 
-
-# angularfire-slack
-
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.11.1.
-
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
